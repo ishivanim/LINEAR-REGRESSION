@@ -12,13 +12,12 @@ This repository contains a simple linear regression model that analyzes the impa
 
   1) The following steps were carried out in this project:
   2) Data Preprocessing: Loaded the dataset and extracted relevant features.
-  3) Model Training: Built a linear regression model to predict sales based on TV advertising budget.
-  4) Visualization: Plotted a regression line to visualize the relationship between TV advertising spend and sales.
+  3) Model Training: Built a linear regression model to predict sales based on multiple advertising platform's budget.
 
 ## Results
 
   We save the intercept value and multiple weights for different advertising media to use it for further app deployment. 
-  We create a different .py file and name it advertising.py where we use these intercept and weights values for our unseen data prediction.
+  We create a different .py file and name it advertising.py where we used these intercept and weights values for our unseen data prediction.
 
 ## Usage
   To run the model:
