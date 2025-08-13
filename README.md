@@ -1,4 +1,4 @@
-# Linear Regression: TV Advertising Budget vs Sales
+# Linear Regression: Advertising Budget vs Sales
 
 ## Overview
 This repository contains a simple linear regression model that analyzes the impact of TV advertising budgets on sales. The dataset includes advertising expenditures across multiple media (TV, radio, etc.) in dollars and their corresponding sales figures also in dollars.
